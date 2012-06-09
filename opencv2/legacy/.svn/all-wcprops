@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/157/trunk/opencv2/legacy
+END
+streams.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/157/trunk/opencv2/legacy/streams.hpp
+END
+compat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/157/trunk/opencv2/legacy/compat.hpp
+END
+blobtrack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/157/trunk/opencv2/legacy/blobtrack.hpp
+END
+legacy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/157/trunk/opencv2/legacy/legacy.hpp
+END

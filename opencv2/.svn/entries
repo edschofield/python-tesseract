@@ -1,0 +1,150 @@
+10
+
+dir
+211
+http://python-tesseract.googlecode.com/svn/trunk/opencv2
+http://python-tesseract.googlecode.com/svn
+
+
+
+2012-05-02T16:45:27.196943Z
+190
+FreeToGo@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08f0998b-4142-7e9d-4870-94cb81243daf
+
+videostab
+dir
+
+opencv.hpp
+file
+
+
+
+
+2012-06-07T07:42:02.000000Z
+d0259f37507371c5ab8d76c57ef975a3
+2012-04-19T22:57:00.385848Z
+153
+freetogo@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2812
+
+x64
+dir
+
+highgui
+dir
+
+ts
+dir
+
+core
+dir
+
+photo
+dir
+
+gpu
+dir
+
+nonfree
+dir
+
+stitching
+dir
+
+flann
+dir
+
+contrib
+dir
+
+imgproc
+dir
+
+calib3d
+dir
+
+objdetect
+dir
+
+features2d
+dir
+
+legacy
+dir
+
+video
+dir
+
+ml
+dir
+
+opencv_modules.hpp
+file
+
+
+
+
+2012-06-07T07:42:02.000000Z
+720856c56d44005981adfe25b91ef1c3
+2012-04-19T22:57:00.385848Z
+153
+freetogo@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+681
+

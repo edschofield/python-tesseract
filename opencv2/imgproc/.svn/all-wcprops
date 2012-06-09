@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/157/trunk/opencv2/imgproc
+END
+imgproc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/157/trunk/opencv2/imgproc/imgproc.hpp
+END
+imgproc_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/157/trunk/opencv2/imgproc/imgproc_c.h
+END
+types_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/157/trunk/opencv2/imgproc/types_c.h
+END

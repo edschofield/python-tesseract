@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/197/trunk/test
+END
+tbb.dll
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/157/trunk/test/tbb.dll
+END
+libtesseract302.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/157/trunk/test/libtesseract302.dll
+END
+tesseract.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/196/trunk/test/tesseract.py
+END
+cv2.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/157/trunk/test/cv2.pyd
+END
+_tesseract.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/196/trunk/test/_tesseract.pyd
+END
+depends.chm
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/157/trunk/test/depends.chm
+END
+test2.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/157/trunk/test/test2.py
+END
+depends.dll
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/157/trunk/test/depends.dll
+END
+eurotext.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/157/trunk/test/eurotext.jpg
+END
+depends.exe
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/157/trunk/test/depends.exe
+END
+opencv_core240.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/157/trunk/test/opencv_core240.dll
+END
+liblept168.dll
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/157/trunk/test/liblept168.dll
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/157/trunk/test/run
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/197/trunk/test/test.py
+END
+msvcr80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/157/trunk/test/msvcr80.dll
+END

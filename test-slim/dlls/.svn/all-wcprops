@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/202/trunk/test-slim/dlls
+END
+opencv_core240.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/195/trunk/test-slim/dlls/opencv_core240.dll
+END
+depends.exe
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/157/trunk/test-slim/dlls/depends.exe
+END
+libtesseract302.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/157/trunk/test-slim/dlls/libtesseract302.dll
+END
+liblept168.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/157/trunk/test-slim/dlls/liblept168.dll
+END
+tesseract.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/202/trunk/test-slim/dlls/tesseract.py
+END
+cv2.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/157/trunk/test-slim/dlls/cv2.pyd
+END
+_tesseract.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/202/trunk/test-slim/dlls/_tesseract.pyd
+END
+depends.chm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/157/trunk/test-slim/dlls/depends.chm
+END
+depends.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/157/trunk/test-slim/dlls/depends.dll
+END

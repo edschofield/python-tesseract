@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/157/trunk/debian/python-tesseract/DEBIAN
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/157/trunk/debian/python-tesseract/DEBIAN/control
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/157/trunk/debian/python-tesseract/DEBIAN/postinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/157/trunk/debian/python-tesseract/DEBIAN/prerm
+END
+md5sums
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/157/trunk/debian/python-tesseract/DEBIAN/md5sums
+END

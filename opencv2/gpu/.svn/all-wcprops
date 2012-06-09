@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/157/trunk/opencv2/gpu
+END
+gpu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/157/trunk/opencv2/gpu/gpu.hpp
+END
+gpumat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/157/trunk/opencv2/gpu/gpumat.hpp
+END
+stream_accessor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/157/trunk/opencv2/gpu/stream_accessor.hpp
+END
+devmem2d.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/157/trunk/opencv2/gpu/devmem2d.hpp
+END

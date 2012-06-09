@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/157/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/157/trunk/debian/control
+END
+files
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/157/trunk/debian/files
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/157/trunk/debian/compat
+END
+python-tesseract.debhelper.log
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/157/trunk/debian/python-tesseract.debhelper.log
+END
+control.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/157/trunk/debian/control.in
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/157/trunk/debian/changelog
+END
+python-tesseract.postinst.debhelper
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/157/trunk/debian/python-tesseract.postinst.debhelper
+END
+python-tesseract.substvars
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/157/trunk/debian/python-tesseract.substvars
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/157/trunk/debian/copyright
+END
+python-tesseract.prerm.debhelper
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/157/trunk/debian/python-tesseract.prerm.debhelper
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/157/trunk/debian/rules
+END

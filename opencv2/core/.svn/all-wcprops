@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/157/trunk/opencv2/core
+END
+wimage.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/157/trunk/opencv2/core/wimage.hpp
+END
+core_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/157/trunk/opencv2/core/core_c.h
+END
+internal.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/157/trunk/opencv2/core/internal.hpp
+END
+gpumat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/157/trunk/opencv2/core/gpumat.hpp
+END
+mat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/157/trunk/opencv2/core/mat.hpp
+END
+devmem2d.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/157/trunk/opencv2/core/devmem2d.hpp
+END
+operations.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/157/trunk/opencv2/core/operations.hpp
+END
+opengl_interop.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/157/trunk/opencv2/core/opengl_interop.hpp
+END
+version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/157/trunk/opencv2/core/version.hpp
+END
+types_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/157/trunk/opencv2/core/types_c.h
+END
+eigen.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/157/trunk/opencv2/core/eigen.hpp
+END
+core.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/157/trunk/opencv2/core/core.hpp
+END

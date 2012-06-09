@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail
+END
+util.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/util.hpp
+END
+blenders.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/blenders.hpp
+END
+seam_finders.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/seam_finders.hpp
+END
+util_inl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/util_inl.hpp
+END
+motion_estimators.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/motion_estimators.hpp
+END
+autocalib.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/autocalib.hpp
+END
+warpers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/warpers.hpp
+END
+warpers_inl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/warpers_inl.hpp
+END
+matchers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/matchers.hpp
+END
+camera.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/camera.hpp
+END
+exposure_compensate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/157/trunk/opencv2/stitching/detail/exposure_compensate.hpp
+END

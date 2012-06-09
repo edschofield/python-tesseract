@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/195/trunk/test-slim/tessdata
+END
+eng.cube.size
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/195/trunk/test-slim/tessdata/eng.cube.size
+END
+eng.cube.nn
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/195/trunk/test-slim/tessdata/eng.cube.nn
+END
+eng.cube.params
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/195/trunk/test-slim/tessdata/eng.cube.params
+END
+eng.traineddata
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/195/trunk/test-slim/tessdata/eng.traineddata
+END
+eng.cube.fold
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/195/trunk/test-slim/tessdata/eng.cube.fold
+END
+eng.cube.bigrams
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/195/trunk/test-slim/tessdata/eng.cube.bigrams
+END
+eng.cube.word-freq
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/195/trunk/test-slim/tessdata/eng.cube.word-freq
+END
+eng.cube.lm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/195/trunk/test-slim/tessdata/eng.cube.lm
+END
+eng.tesseract_cube.nn
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/195/trunk/test-slim/tessdata/eng.tesseract_cube.nn
+END

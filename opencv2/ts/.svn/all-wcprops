@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/157/trunk/opencv2/ts
+END
+ts_gtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/157/trunk/opencv2/ts/ts_gtest.h
+END
+ts_perf.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/157/trunk/opencv2/ts/ts_perf.hpp
+END
+ts.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/157/trunk/opencv2/ts/ts.hpp
+END

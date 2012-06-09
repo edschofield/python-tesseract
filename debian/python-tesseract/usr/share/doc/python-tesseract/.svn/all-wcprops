@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/157/trunk/debian/python-tesseract/usr/share/doc/python-tesseract
+END
+changelog.gz
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/157/trunk/debian/python-tesseract/usr/share/doc/python-tesseract/changelog.gz
+END
+changelog.Debian.gz
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/157/trunk/debian/python-tesseract/usr/share/doc/python-tesseract/changelog.Debian.gz
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/157/trunk/debian/python-tesseract/usr/share/doc/python-tesseract/copyright
+END
+buildinfo.gz
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/157/trunk/debian/python-tesseract/usr/share/doc/python-tesseract/buildinfo.gz
+END
